@@ -6,3 +6,6 @@ https://laika.gallery/
 https://closedonmondaygallery.com/
 https://newart.city/
 https://www.mocda.org/abstract-art-new-media
+
+## Second Life
+https://secondlife.com/destinations/learning/museums
