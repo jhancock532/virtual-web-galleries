@@ -1,11 +1,11 @@
 # virtual-web-galleries
 A collection of online 3D galleries
 
-https://rivergallery.itch.io/languish-diamond
-https://laika.gallery/
-https://closedonmondaygallery.com/
-https://newart.city/
-https://www.mocda.org/abstract-art-new-media
+https://rivergallery.itch.io/languish-diamond <br>
+https://laika.gallery/ <br>
+https://closedonmondaygallery.com/ <br>
+https://newart.city/ <br>
+https://www.mocda.org/abstract-art-new-media <br>
 
 ## Second Life
 https://secondlife.com/destinations/learning/museums
