@@ -10,3 +10,6 @@ https://epoch.gallery/ <br>
 
 ## Second Life
 https://secondlife.com/destinations/learning/museums
+
+
+https://rhizome.org/editorial/2020/dec/01/curating-online-exhibitions-likelike/
